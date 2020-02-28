@@ -37,8 +37,7 @@
 ### Team name: fireflies
 Team member | Role
 ------------ | -----
-Myself             |  Engine and Gameplay Logic
-Dhrumil Shukla     |  Engine and Gameplay Logic
 Arnold George      |  Graphics
+Dhrumil Shukla     |  Engine and Gameplay Logic
 Shashwat Pandey    |  Physics
 Ivan Cazares Lopez |  Audio and Game Design
